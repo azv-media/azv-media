@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Armaan Ziyad</h1>
 <h3 align="center">A Machine Learning Enthusiast</h3>
 
+- 🌱 I’m currently learning **Flutter**
+
+- 📫 How to reach me **armaanziyad2468@gmail.com**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
