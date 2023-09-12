@@ -1,4 +1,4 @@
-[![MasterHead]([[https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/D5603AQGtdGZGj9N42Q/profile-displayphoto-shrink_800_800/0/1673687133338?e=1700092800&v=beta&t=ZIEkF2XqC7KPTvdWU8xzLtWEKHGOKCn-ZJMfnIc51vQ](https://media.licdn.com/dms/image/D5616AQEpxmVQZojHUQ/profile-displaybackgroundimage-shrink_350_1400/0/1673687949786?e=1700092800&v=beta&t=dyT8M5bkyUAB3QxN_oTf9fGPF4fEs8R6RCXgHtM2_f8)))])
+[![MasterHead]([[https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/D5603AQGtdGZGj9N42Q/profile-displayphoto-shrink_800_800/0/1673687133338?e=1700092800&v=beta&t=ZIEkF2XqC7KPTvdWU8xzLtWEKHGOKCn-ZJMfnIc51vQ](https://media.licdn.com/dms/image/D5616AQEpxmVQZojHUQ/profile-displaybackgroundimage-shrink_350_1400/0/1673687949786?e=1700092800&v=beta&t=dyT8M5bkyUAB3QxN_oTf9fGPF4fEs8R6RCXgHtM2_f8)))]
 
 
 <h1 align="center">Hi 👋, I'm Armaan Ziyad</h1>
