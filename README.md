@@ -1,6 +1,6 @@
-# Hello! 👋
+# Hey! 👋
 
-I'm [Armaan], a passionate engineer with expertise in machine learning, deep learning, TensorFlow, and web development. I have a knack for creating cutting-edge AI solutions and crafting stunning websites using platforms like WordPress, Wix, and Shopify. Let me give you a glimpse into my world of technology and web design.
+I'm Armaan, a passionate tech enthusiast with expertise in machine learning, deep learning, TensorFlow, and web development. I have a knack for creating cutting-edge AI solutions and crafting stunning websites using platforms like WordPress, Wix, and Shopify. Let me give you a glimpse into my world of technology and web design.
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5603AQGtdGZGj9N42Q/profile-displayphoto-shrink_800_800/0/1673687133338?e=1700092800&v=beta&t=ZIEkF2XqC7KPTvdWU8xzLtWEKHGOKCn-ZJMfnIc51vQ">
 
@@ -51,7 +51,7 @@ Let's build a better, smarter, and more beautiful digital world together!
 
 Thanks for stopping by! Feel free to explore my GitHub repositories and reach out if you have any questions or exciting projects to discuss.
 
-- 🌱 I’m currently learning **Flutter**
+- 🧑‍💻 I’m currently learning **Flutter**
 
 - 📝 I regularly write articles on [medium.com/@armaanziyad246](medium.com/@armaanziyad246)
 
