@@ -51,16 +51,15 @@ Let's build a better, smarter, and more beautiful digital world together!
 
 Thanks for stopping by! Feel free to explore my GitHub repositories and reach out if you have any questions or exciting projects to discuss.
 
-![Python Logo](python-logo.png) ![Scikit-Learn Logo](scikit-learn-logo.png) ![Matplotlib Logo](matplotlib-logo.png) ![Kotlin Logo](kotlin-logo.png) ![Dart Logo](dart-logo.png)
-
 - 🌱 I’m currently learning **Flutter**
 
 - 📝 I regularly write articles on [medium.com/@armaanziyad246](medium.com/@armaanziyad246)
 
 - 📫 How to reach me **armaanziyad2468@gmail.com**
 
-### Blogs posts
+### Blogs posts 📝
 <!-- BLOG-POST-LIST:START -->
+**https://medium.com/@armaanziyad246**
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
